@@ -1,0 +1,12 @@
+def introduction():
+    print("\nBienvenue, Gardien des Lueurs.")
+    print("Dans ce royaume d'ombres et de lumières, une guerre silencieuse fait rage.")
+    print("La princesse Eloria, source de magie et de vie dans la Forêt Éternelle, est en grand danger.")
+    print("Les Princes des Ténèbres, envoûtés par son pouvoir, veulent s'emparer d'elle pour dominer le royaume.")
+    print("Mais Eloria n'aime qu'une seule âme : vous, le Gardien des Lueurs.")
+    print("Votre devoir est de la protéger à tout prix.\n")
+    print("Pour cela, vous devez :")
+    print("- Combattre les Princes pour éloigner la menace.")
+    print("- Utiliser la magie des bois pour explorer les secrets de ce monde.")
+    print("- Sauvegarder vos souvenirs pour ne jamais perdre espoir.")
+    print("Le sort du royaume repose entre vos mains...\n")
